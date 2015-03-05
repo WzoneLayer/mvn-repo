@@ -12,3 +12,4 @@ dependencies {
 dependencies {
 	compile 'com.muzhiwan:library:1.0.1'
 }
+```
